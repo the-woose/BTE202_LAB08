@@ -1,1 +1,2 @@
-# BTE202_LAB08
+﻿# Yavuz Sava 2023 BTE202 Lab 8 Kaynak Kodları
+derlenmiş dosya ilk sürüm olarak eklenmiştir
